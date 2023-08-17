@@ -1,0 +1,10 @@
+- python
+- pip: 
++ mở cmd(run as admin)
++ pip install pip
+- opencv: pip install opencv-python
+- pip install opencv-contrib-python
+- os
+- PIL: pip install Pillow
+- squilte3: https://sqlitebrowser.org/dl/ (kiểm tra win 32 or 64 => cài theo win)
+
